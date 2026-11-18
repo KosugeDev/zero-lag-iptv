@@ -36,7 +36,7 @@
 * **⚡ Sub-Second Startup (`<1s`):** Smart local caching (`%LocalAppData%\ZeroLag IPTV\v2.0`) eliminates cold-start bottlenecks, launching **8x faster** (under 1 second after initial run).
 * **🔄 Dual-Engine Playback (WebView2 + LibVLC):** Uses **Microsoft Edge WebView2** by default for ultra-low latency and instant channel zapping, while automatically falling back to **LibVLCSharp** whenever an unsupported stream or codec is encountered—ensuring channels always play. *(Default engine can also be switched manually in Settings).*
 * **🖥️ Universal Fullscreen & Aspect-Ratio Stretching:** Eliminates black bars on any screen geometry. Dynamically stretches and fits streams seamlessly across **16:9** monitors, **21:9** ultrawide displays, and legacy **4:3 CRT** screens.
-* **📡 Xtream Codes & M3U/M3U8 Support:** Load your playlists effortlessly via **Xtream Codes API**, direct stream URLs, or local `.m3u` / `.m3u8` files with automatic categorization (Live TV, Movies, Series).
+* **📡 Xtream Codes & URL & M3U/M3U8 Support:** Load your playlists effortlessly via **Xtream Codes API**, direct stream URLs, or local `.m3u` / `.m3u8` files with automatic categorization (Live TV, Movies, Series).
 * **🎮 Universal Remote Control Support:** Native media-key and universal remote integration lets you change channels and control playback from your smartphone or external remote apps—no keyboard required.
 * **🎨 Modern UI & Custom Themes:** Sleek, distraction-free interface featuring switchable themes: **Blue** *(Default)*, **Dark**, and **Classic Purple**.
 * **🌍 Multi-Language Support (EN / TR):** Automatically detects your Windows OS language on first launch (defaults to English if non-Turkish) and can be switched anytime via `Settings > Language`.
