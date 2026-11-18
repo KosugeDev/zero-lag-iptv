@@ -25,8 +25,6 @@
 
 ## 🖼️ Screenshots
 
-> *Tip: Drag and drop your `.png` screenshots into the GitHub README editor and replace the placeholder links below.*
-
 | Modern Player & Channel List | Themes & Customization |
 | :---: | :---: |
 | ![Main Interface](https://via.placeholder.com/600x340/0f172a/38bdf8?text=Main+Player+Screenshot) | ![Theme Menu](https://via.placeholder.com/600x340/0f172a/38bdf8?text=Themes+%26+Settings+Screenshot) |
