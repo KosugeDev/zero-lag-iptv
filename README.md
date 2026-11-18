@@ -69,7 +69,7 @@ This repository serves as the official documentation and binary distribution hub
 
 * **Operating System:** Windows 10 / Windows 11
 * **Architecture:** 64-bit (`x64`)
-* **Runtime:** Microsoft Edge WebView2 Runtime *(Pre-installed on Windows 11 and modern Windows 10 builds)*
+* **Runtime:** Microsoft Edge WebView2 Runtime
 
 ---
 
