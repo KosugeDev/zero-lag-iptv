@@ -67,7 +67,7 @@ This repository serves as the official documentation and binary distribution hub
 
 ## 💻 System Requirements
 
-* **Operating System:** Windows 10 (version 1809 or later) / Windows 11
+* **Operating System:** Windows 10 / Windows 11
 * **Architecture:** 64-bit (`x64`)
 * **Runtime:** Microsoft Edge WebView2 Runtime *(Pre-installed on Windows 11 and modern Windows 10 builds)*
 
